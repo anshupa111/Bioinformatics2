@@ -2,4 +2,4 @@
 ------------------
 ------------------
 
-This repository contains the basic data analysis code
+This repository contains the basic data analysis code in Python
